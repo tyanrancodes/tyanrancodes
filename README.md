@@ -1,4 +1,4 @@
-👋 About Me
+## 👋 About Me
 Hi! I'm Ryan, I graduated from Immersive Media in Ngee Ann Polytechnic and I have a technical background spanning game development, 
 network infrastructure, and full-stack web development. Currently I'm diving deeper into python, and learning more about automation and machine learning. 
 
