@@ -1,11 +1,6 @@
-## Hi there 👋
-
-I'm Ryan, a fresh graduate from Ngee Ann Polytechnic Immersive Media that is currently learning full-stack development
-
 👋 About Me
-Immersive Media graduate with a technical background spanning game development, 
-network infrastructure, and full-stack web development. Currently building projects 
-in React while exploring AI/robotics applications.
+Hi! I'm Ryan, I graduated from Immersive Media in Ngee Ann Polytechnic and I have a technical background spanning game development, 
+network infrastructure, and full-stack web development. Currently I'm diving deeper into python, and learning more about automation and machine learning. 
 
 ## 🛠️ Skills
 
